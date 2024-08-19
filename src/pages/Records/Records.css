@@ -1,0 +1,15 @@
+.portada {
+    margin-left: auto;
+    margin-right: auto;
+    width: 25vw;
+}
+
+.portada img {
+    width: 100%;
+}
+
+@media only screen and (max-width: 660px) {
+    .portada {
+        width: 90vw;
+    }
+}

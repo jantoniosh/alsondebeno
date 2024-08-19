@@ -1,0 +1,19 @@
+.fondoInicio {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-image: url(../../assets/images/foto_arbol.jpg);
+    background-position: center center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.tituloInicio,
+.linkInicio,
+.linkInicio:visited {
+    color: #FFF;
+}
+
+.linkInicio:hover {
+    color: #AAA;
+}

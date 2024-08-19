@@ -1,0 +1,21 @@
+.discoMain {
+    width: 75vw;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 24px;
+    padding: 18px;
+}
+
+.discoRight {
+    text-align: left;
+}
+
+.linkTienda {
+    font-size: 36px;
+}
+
+@media only screen and (max-width: 660px) {
+    .discoMain {
+        grid-template-columns: auto;
+    }
+}

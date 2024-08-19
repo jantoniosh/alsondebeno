@@ -1,0 +1,6 @@
+export * from './Inicio/Inicio'
+export * from './Info/Info'
+export * from './Records/Records'
+export * from './Pelicula/Pelicula'
+export * from './Radio/Radio'
+export * from './Disco/Disco'
